@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+}
+.box{
+    height: 400px;
+    width: 400px;
+    margin: auto;
+    border: 0px solid white;
+    display: flex;
+}
+div{
+    flex-wrap: wrap;
+    height: 135px;
+    border-radius: 20px;
+width: 135px;
+border: 8px solid black;
+margin: auto;
+}
+.red{
+    background-color:#d95980;;
+}
+.green{
+    background-color:#63aac0;
+}
+.orange{
+    background-color:orange;
+}
+.gray{
+    background-color:#819ff9;
+}
+.white{
+    background-color: white;
+}
+
+.greem{
+    background-color:green;
+}
+.danger{
+    background-color: red;
+}
